@@ -11,7 +11,7 @@
 
 **Gameplay**
 
-https://user-images.githubusercontent.com/73798628/131921946-36cc1314-37af-44f9-a805-4d1718028886.mp4
+https://user-images.githubusercontent.com/73798628/131922460-2389b129-78d2-4812-bdc2-e8c927a6a3ac.mp4
 
 
 
