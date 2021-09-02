@@ -11,10 +11,7 @@
 
 **Gameplay**
 
-<p align="center">
-<img src = "./READMEImg/calculator-screen.png" style = "
-  width: 100%;"/> 
-</p>
+https://user-images.githubusercontent.com/73798628/131921946-36cc1314-37af-44f9-a805-4d1718028886.mp4
 
 
 
