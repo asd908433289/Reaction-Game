@@ -1,0 +1,103 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+
+:root{
+    --font-size: 2em;
+}
+
+html{
+    background-color: white;
+}
+
+body{
+    background-color: #9ae91bd5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5vh;
+    height: 90vh;
+}
+
+.reaction-game{
+    
+    height: 90%;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(139, 123, 212, 0.87);
+    border-radius: 1rem;
+    padding: 2rem;
+    
+}
+
+.game-name{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-menu{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-score{
+    display: none;
+    font-size: var(--font-size);
+}
+
+.timer{
+    display: none;
+    font-size: var(--font-size);
+}
+
+.max-score{
+    display: none;
+    font-size: var(--font-size);
+}
+.end-scene{
+    text-align: center;
+    font-size: var(--font-size);
+}
+
+.target-circle{
+    position: absolute;
+    top: 50vh;
+    left: 50vw;
+    animation: fadein 0.65s;
+}
+
+
+@keyframes fadein {
+    from { opacity: 0}
+    to   { opacity: 1}
+}
+
+.start-scene{
+    height: 100%;
+    width: 100%;
+}
+
+@media screen and (max-width: 1250px){
+    .reaction-game{
+        background-color: transparent;
+        width: 100%;
+    }
+
+    :root{
+        --font-size: 1em;
+    }
+}
+
+
+
+
