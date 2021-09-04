@@ -4,7 +4,7 @@
 <p> A simple web game to chanllenge your reaction and hand speed. It allows people to practice their reaction and hand speed. </p>
 
 ## **How To Play**
-1. Open https://reaction-game.tiiny.site/ in your browser.
+1. Open https://sheng-reaction-game.tiiny.site/ in your browser.
 2. Start playing!
 
 
